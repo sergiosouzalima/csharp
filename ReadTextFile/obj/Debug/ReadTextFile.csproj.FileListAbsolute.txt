@@ -1,0 +1,14 @@
+C:\Users\sergiolima\Source\Repos\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+C:\Users\sergiolima\Source\Repos\ReadTextFile\bin\Debug\ReadTextFile.exe
+C:\Users\sergiolima\Source\Repos\ReadTextFile\bin\Debug\ReadTextFile.pdb
+C:\Users\sergiolima\Source\Repos\ReadTextFile\obj\Debug\ReadTextFile.csproj.AssemblyReference.cache
+C:\Users\sergiolima\Source\Repos\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\sergiolima\Source\Repos\ReadTextFile\obj\Debug\ReadTextFile.exe
+C:\Users\sergiolima\Source\Repos\ReadTextFile\obj\Debug\ReadTextFile.pdb
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\bin\Debug\ReadTextFile.exe
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\bin\Debug\ReadTextFile.pdb
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\obj\Debug\ReadTextFile.csproj.AssemblyReference.cache
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\obj\Debug\ReadTextFile.exe
+C:\Users\sergiolima\workspace\csharp\ReadTextFile\obj\Debug\ReadTextFile.pdb
