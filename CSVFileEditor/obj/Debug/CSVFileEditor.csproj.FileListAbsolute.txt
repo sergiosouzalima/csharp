@@ -1,0 +1,14 @@
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\bin\Debug\CSVFileEditor.exe.config
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\bin\Debug\CSVFileEditor.exe
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\bin\Debug\CSVFileEditor.pdb
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.csproj.AssemblyReference.cache
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.Form1.resources
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.Properties.Resources.resources
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.csproj.GenerateResource.cache
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.csproj.CoreCompileInputs.cache
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.exe
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.pdb
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\bin\Debug\CSVFileEditor.exe.manifest
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\bin\Debug\CSVFileEditor.application
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.exe.manifest
+C:\Users\sergiolima\workspace\csharp\CSVFileEditor\obj\Debug\CSVFileEditor.application
