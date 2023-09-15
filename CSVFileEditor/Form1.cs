@@ -32,30 +32,28 @@ namespace CSVFileEditor {
                 sw.WriteLine($"{name};{email}");
             }
 
-            MessageBox.Show("Data saved successfully", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
             // Update the ListBox with the data from the CSV file
             UpdateListBox();
+
+            MessageBox.Show("Data saved successfully", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             // Clear the text boxes and set the focus back to the tbx_name text box
             ClearAndFocusFields();
         }
 
         private void UpdateListBox() {
+            bool FileExists = File.Exists(filePath);
             // Clear the ListBox
             lbx_people.Items.Clear();
 
             // Check if the file exists before trying to read from it
-            if (File.Exists(filePath)) {
+            if (FileExists) {
                 using (StreamReader sr = new StreamReader(filePath)) {
                     string line;
                     while ((line = sr.ReadLine()) != null) {
                         lbx_people.Items.Add(line);
                     }
                 }
-            }
-            else {
-                MessageBox.Show("File not found", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
